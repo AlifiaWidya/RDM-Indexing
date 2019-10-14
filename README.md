@@ -25,7 +25,7 @@
    2. Modifikasi data dengan beberapa sintax, seperti yang terdapat pada screenshot
       - Masukkan syntax `IndexDir ./tugasrdm` dalam tugas.conf                                               
       ![s3.PNG]( ./All-Screenshot/swish-e/s3.PNG)
-      - Masukkan isi dalam file.txt                                                                          
+      - Masukkan isi dalam file.txt seperti beberapa kata                                                                 
       ![s4.PNG]( ./All-Screenshot/swish-e/s4.PNG)
    3. untuk menjalankan program text indexing, gunakan syntax : `swish-e -c tugas.conf`
       ![swish-e-c.PNG]( ./All-Screenshot/swish-e/swish-e-c.PNG)
