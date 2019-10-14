@@ -1,10 +1,7 @@
 # RDM-Indexing
 ### -> image-search-engine
-  ##### Langkah-Langkah
-    1.Clone terlebih dahulu dengan menggunakan syntax : 
-      ```
-      git clone https://github.com/kudeh/image-search-engine.git
-      ```
+    * Clone terlebih dahulu dengan menggunakan syntax : 
+       `git clone https://github.com/kudeh/image-search-engine.git`
     2. `sudo apt-get update`
     3. `sudo apt-get upgrade`
     4. `sudo apt-get install python3-pip`
