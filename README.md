@@ -23,12 +23,14 @@
       `sudo apt-get install swish-e`
       ![s1.PNG]( ./All-Screenshot/swish-e/s1.PNG)
    2. Modifikasi data dengan beberapa sintax, seperti yang terdapat pada screenshot
+      - Masukkan syntax `IndexDir ./tugasrdm` dalam tugas.conf
       ![s3.PNG]( ./All-Screenshot/swish-e/s3.PNG)
+      - Masukkan isi dalam file.txt
       ![s4.PNG]( ./All-Screenshot/swish-e/s4.PNG)
    3. untuk menjalankan program text indexing, gunakan syntax : `swish-e -c tugas.conf`
-      ![swish-e -c.PNG]( ./All-Screenshot/swish-e/swish-e -c.PNG)
+      ![swish-e-c.PNG]( ./All-Screenshot/swish-e/swish-e-c.PNG)
    4. untuk menjalankan program dengan mencari salah satu kata, gunakan syntax : `swish-e -w (kata yang diinginkan)`
-      ![swish-e -w.PNG]( ./All-Screenshot/swish-e/swish-e -w.PNG)
+      ![swish-e-w.PNG]( ./All-Screenshot/swish-e/swish-e-w.PNG)
 
 ## Sumber
    1. Image-Indexing: https://github.com/kudeh/image-search-engine.
