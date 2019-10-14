@@ -2,7 +2,7 @@
 ### -> image-search-engine (Image Indexing)
    1. Clone terlebih dahulu. Syntax : 
       `git clone https://github.com/kudeh/image-search-engine.git`
-      ![1.png].(./All-Screenshot/image-search-engine/1.png)
+      ![1.png].( ./All-Screenshot/image-search-engine/1.png)
    2. Lakukan Update. Syntax : 
       `sudo apt-get update`
       !
@@ -23,6 +23,6 @@
    3. untuk menjalankan program text indexing, gunakan syntax : `swish-e -c tugas.conf`
    4. untuk menjalankan program dengan mencari salah satu kata, gunakan syntax : `swish-e -w (kata yang diinginkan)` 
 
-##Sumber
+## Sumber
    1. Image-Indexing: https://github.com/kudeh/image-search-engine.
    2. Text-Indexing: Swish-e (Package on Ubuntu).
