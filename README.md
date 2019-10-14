@@ -21,9 +21,14 @@
 ### -> Swish-e (Text Indexing)
    1. Install Swish-e. Syntax :
       `sudo apt-get install swish-e`
+      ![s1.PNG]( ./All-Screenshot/swish-e/s1.PNG)
    2. Modifikasi data dengan beberapa sintax, seperti yang terdapat pada screenshot
+      ![s3.PNG]( ./All-Screenshot/swish-e/s3.PNG)
+      ![s4.PNG]( ./All-Screenshot/swish-e/s4.PNG)
    3. untuk menjalankan program text indexing, gunakan syntax : `swish-e -c tugas.conf`
-   4. untuk menjalankan program dengan mencari salah satu kata, gunakan syntax : `swish-e -w (kata yang diinginkan)` 
+      ![swish-e -c.PNG]( ./All-Screenshot/swish-e/swish-e -c.PNG)
+   4. untuk menjalankan program dengan mencari salah satu kata, gunakan syntax : `swish-e -w (kata yang diinginkan)`
+      ![swish-e -w.PNG]( ./All-Screenshot/swish-e/swish-e -w.PNG)
 
 ## Sumber
    1. Image-Indexing: https://github.com/kudeh/image-search-engine.
