@@ -1,6 +1,6 @@
 # RDM-Indexing
 ### -> image-search-engine
-    * Clone terlebih dahulu dengan menggunakan syntax : 
+   1. Clone terlebih dahulu dengan menggunakan syntax : 
        `git clone https://github.com/kudeh/image-search-engine.git`
     2. `sudo apt-get update`
     3. `sudo apt-get upgrade`
