@@ -2,7 +2,7 @@
 ### -> image-search-engine
    1. Clone terlebih dahulu. Syntax : 
       `git clone https://github.com/kudeh/image-search-engine.git`
-      (RDM-Indexing/All-Screenshot/image-search-engine/1.jpg)
+      !(RDM-Indexing/All-Screenshot/image-search-engine/1.jpg)
    2. Lakukan Update. Syntax : 
       `sudo apt-get update`
    3. Lakukan Upgrade. Syntax : 
