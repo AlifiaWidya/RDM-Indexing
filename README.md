@@ -2,7 +2,7 @@
 ### -> image-search-engine (Image Indexing)
    1. Clone terlebih dahulu. Syntax : 
       `git clone https://github.com/kudeh/image-search-engine.git`
-      ![1.png]( ./All-Screenshot/image-search-engine/1.png)
+      ![1.PNG]( ./All-Screenshot/image-search-engine/1.PNG)
    2. Lakukan Update. Syntax : 
       `sudo apt-get update`
       !
